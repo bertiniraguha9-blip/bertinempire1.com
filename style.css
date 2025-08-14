@@ -1,0 +1,115 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.DJ{
+    background-image: url(e.jpg);
+    background-position: center;
+    background-size: 200;
+    background-attachment: fixed;
+    
+}
+.logo{
+    font-size: 3rem;
+    color: brown;
+    margin-left: 2rem;
+    font-weight: 900;
+}
+.options li{
+justify-content: space-between;
+float: right;
+display: inline-block;
+list-style-type: none;
+margin-right: 2rem;
+margin-top: -1rem;
+color: white;
+cursor: pointer;
+}
+.options ul :hover{
+    color: rgb(228, 228, 11);
+}
+.welcome{
+    font-size: 3rem;
+    color: chocolate;
+}
+fieldset{
+    width: 20rem;
+    height: 30rem;
+    margin-left: 2rem;
+    background-color: whitesmoke;
+    border: 0;
+}
+button{
+    margin-top: -15rem;
+    background-color: chocolate;
+    font-size: 2rem;
+    cursor: pointer;
+}
+.footer{
+    color: black;
+    font-size: xx-large;
+}
+.bur{
+    background: url(q.jpg);
+    background-position: center;
+    background-size: 100rem;
+    background-attachment: fixed;
+    
+}
+.mus{
+    background: url(i.jpg);
+    background-position: center;
+    background-size: 100rem;
+    background-attachment: fixed;
+}
+.book{
+    background: url(b.jpg);
+}
+.list tr{
+    justify-content: space-between;
+    size: xx-large;
+}
+.search{
+    border-radius: 100px;
+}
+.icon{
+    size: 10px;
+}
+.list P{
+    font-size: xx-large;
+    color: red;
+}
+.tittle p{
+    font-size: xx-large;
+    color: red;
+}
+.music p{
+    font-size: xx-large;
+    color: red;
+}
+video{
+    height: 1000px;
+    width: 1000px;
+}
+.mar{
+    font-size: xx-large;
+    color: black;
+    image-resolution: 20px*20px;
+}
+.contact{
+    background: url(j.jpg);
+    background-position: center;
+    background-size: 100rem;
+    background-attachment: fixed;
+}
+image{
+    height: 10px;
+    width: 10px;
+}
+fieldset p{
+    color: rgb(70, 1, 1);
+    font-size: xx-large;
+}
+.fieldset button{
+    margin-bottom: 20rem;
+}
